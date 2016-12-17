@@ -1,0 +1,23 @@
+{
+  "name": "node-todo",
+  "description": "Simple todo application.",
+  "main": "server.js",
+  "authors": [
+    "Masa"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Masa-74/stock_preb",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "angular-nvd3": "",
+      "angular": "",
+      "d3": "",
+      "nvd3": ""
+  }
+}
